@@ -1,1 +1,1 @@
-# Juju_Charm
+# charm-charm

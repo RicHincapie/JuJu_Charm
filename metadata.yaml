@@ -1,0 +1,13 @@
+name: charm
+summary: charm
+maintainers:
+    - OmniVector Solutions
+description: |
+        Test charm
+tags:
+    - test
+
+series:
+    - focal
+    - centos7
+    - bionic
